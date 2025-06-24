@@ -1,0 +1,1 @@
+{"name":"Local: L239_Sliding_Window_Maximum","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L239_Sliding_Window_Maximum.cpp","tests":[{"id":1746791125261,"input":"1\n8 3\n1 3 -1 -3 5 3 6 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L239_Sliding_Window_Maximum.cpp","group":"local","local":true}

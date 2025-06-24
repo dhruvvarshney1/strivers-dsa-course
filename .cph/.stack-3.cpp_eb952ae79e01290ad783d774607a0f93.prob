@@ -1,0 +1,1 @@
+{"name":"Local: stack-3","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\stack-3.cpp","tests":[{"id":1742801923232,"input":"10\n()\n[]{}\n(]\n([)]\n{[]}\n((\n))\n{[()]}\n[({})()]\n","output":"1\n1\n0\n0\n1\n0\n0\n1\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\stack-3.cpp","group":"local","local":true}

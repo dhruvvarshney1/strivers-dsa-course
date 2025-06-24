@@ -1,0 +1,1 @@
+{"name":"Local: L992_Subarray_With_K","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L992_Subarray_With_K.cpp","tests":[{"id":1747413103647,"input":"5 3\n1 2 1 3 4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L992_Subarray_With_K.cpp","group":"local","local":true}

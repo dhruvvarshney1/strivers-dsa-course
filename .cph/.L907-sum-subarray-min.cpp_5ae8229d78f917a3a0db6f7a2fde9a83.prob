@@ -1,0 +1,1 @@
+{"name":"Local: L907-sum-subarray-min","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L907-sum-subarray-min.cpp","tests":[{"id":1743872894012,"input":"4\n3 1 2 4","output":"17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L907-sum-subarray-min.cpp","group":"local","local":true}

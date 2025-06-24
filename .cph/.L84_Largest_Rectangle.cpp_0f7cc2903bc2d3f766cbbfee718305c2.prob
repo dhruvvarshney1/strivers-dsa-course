@@ -1,0 +1,1 @@
+{"name":"Local: L84_Largest_Rectangle","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L84_Largest_Rectangle.cpp","tests":[{"id":1747153551581,"input":"1\n6\n2 1 5 6 2 3","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L84_Largest_Rectangle.cpp","group":"local","local":true}

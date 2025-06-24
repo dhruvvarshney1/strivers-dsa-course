@@ -1,0 +1,1 @@
+{"name":"Local: BS_Allocate_Books","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\BS_Allocate_Books.cpp","tests":[{"id":1747981321049,"input":"5 4\n25 46 28 49 24","output":"71"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\BS_Allocate_Books.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: L560_Subarray_SumK","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L560_Subarray_SumK.cpp","tests":[{"id":1746691629168,"input":"3\n3 2\n1 1 1\n3 3\n1 2 3\n5 7\n1 2 3 4 5","output":"2\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L560_Subarray_SumK.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: tem3","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\tem3.cpp","tests":[{"id":1733893067969,"input":"8\n12 23 34 12 12 23 12 14","output":"14 34"},{"id":1733893196664,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\tem3.cpp","group":"local","local":true}

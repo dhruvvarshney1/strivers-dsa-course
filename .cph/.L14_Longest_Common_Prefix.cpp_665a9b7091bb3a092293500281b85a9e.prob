@@ -1,0 +1,1 @@
+{"name":"Local: L14_Longest_Common_Prefix","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L14_Longest_Common_Prefix.cpp","tests":[{"id":1749181047452,"input":"3\nflower\nflow\nflight","output":"fl"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L14_Longest_Common_Prefix.cpp","group":"local","local":true}

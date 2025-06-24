@@ -1,0 +1,1 @@
+{"name":"Local: L303_Subarray_with_Sum","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L303_Subarray_with_Sum.cpp","tests":[{"id":1747290744255,"input":"2\n5 2\n1 1 1 1 1\n5 0\n0 0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L303_Subarray_with_Sum.cpp","group":"local","local":true}

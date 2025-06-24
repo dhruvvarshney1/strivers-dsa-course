@@ -1,0 +1,1 @@
+{"name":"Local: Heaps_2","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\Heaps_2.cpp","tests":[{"id":1750308249788,"input":"6\n2 4 1 77 1 3","output":"1 1 2 3 4 77"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\Heaps_2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: L1004_Max_Consecutive_Ones","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L1004_Max_Consecutive_Ones.cpp","tests":[{"id":1747243695503,"input":"11 2\n1 1 1 0 0 0 1 1 1 1 0","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L1004_Max_Consecutive_Ones.cpp","group":"local","local":true}

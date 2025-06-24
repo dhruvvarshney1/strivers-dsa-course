@@ -1,0 +1,1 @@
+{"name":"Local: L547_Number_Of_Provinces","url":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L547_Number_Of_Provinces.cpp","tests":[{"id":1750488404984,"input":"3\n1 1 0\n1 1 0\n0 0 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dhruv\\Dropbox\\CodeBeast\\DSA\\L547_Number_Of_Provinces.cpp","group":"local","local":true}
